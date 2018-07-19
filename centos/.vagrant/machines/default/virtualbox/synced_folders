@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant":{"guestpath":"/home/vagrant","hostpath":"C:/Users/kento.esashika/vagrant/centos/vagrant","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/kento.esashika/vagrant/centos","disabled":false,"__vagrantfile":true}}}
